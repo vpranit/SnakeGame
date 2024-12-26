@@ -1,0 +1,4 @@
+FOOD_COLOR = "red"
+SNAKE_BODY_COLOR = "green"
+
+SCREEN_BACKGROUND_COLOR = "black"

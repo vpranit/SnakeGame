@@ -1,5 +1,12 @@
+import pygame
+from src.game import Game 
+
 def main():
-    print("This is the entry point of the program")
+    # Create a game object
+    game = Game()
+
+    # Run the game loop
+    game.run()
 
 if __name__ == "__main__":
-    main()  # Executes main function only when this script is run directly
+    main()
